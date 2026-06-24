@@ -1,0 +1,454 @@
+{
+  "fileCount": 65,
+  "images": [
+    {
+      "id": "d1",
+      "name": "西红柿炒鸡蛋",
+      "assetKey": "/assets/dishes/xihongshi-chaojidan.jpg",
+      "githubPagesFile": "xihongshi-chaojidan-18bcf359fc.webp",
+      "sizeBytes": 12934
+    },
+    {
+      "id": "d2",
+      "name": "贝贝小排",
+      "assetKey": "/assets/dishes/beibei-xiaopai.jpeg",
+      "githubPagesFile": "beibei-xiaopai-4c2e9f20ed.webp",
+      "sizeBytes": 77988
+    },
+    {
+      "id": "d3",
+      "name": "炒白菜",
+      "assetKey": "/assets/dishes/chao-baicai-v2.png",
+      "githubPagesFile": "chao-baicai-v2-008781f473.webp",
+      "sizeBytes": 108246
+    },
+    {
+      "id": "d5",
+      "name": "葱烧大排",
+      "assetKey": "/assets/dishes/congshao-dapai.jpeg",
+      "githubPagesFile": "congshao-dapai-e8bbb52cd8.webp",
+      "sizeBytes": 78792
+    },
+    {
+      "id": "d6",
+      "name": "葱烧豆腐",
+      "assetKey": "/assets/dishes/congshao-doufu.jpeg",
+      "githubPagesFile": "congshao-doufu-66d5cbd373.webp",
+      "sizeBytes": 31590
+    },
+    {
+      "id": "d7",
+      "name": "红烧肉",
+      "assetKey": "/assets/dishes/hongshaorou.jpeg",
+      "githubPagesFile": "hongshaorou-7e4b90186e.webp",
+      "sizeBytes": 73030
+    },
+    {
+      "id": "d21",
+      "name": "蒜蓉粉丝",
+      "assetKey": "/assets/dishes/suanrong-fensi-v3.png",
+      "githubPagesFile": "suanrong-fensi-v3-07b35ab5df.webp",
+      "sizeBytes": 142790
+    },
+    {
+      "id": "d29",
+      "name": "白灼虾",
+      "assetKey": "/assets/dishes/baizhuoxia.jpg",
+      "githubPagesFile": "baizhuoxia-fa838a9ceb.webp",
+      "sizeBytes": 123782
+    },
+    {
+      "id": "d30",
+      "name": "茄子肉末",
+      "assetKey": "/assets/dishes/qiezi-roumo.jpg",
+      "githubPagesFile": "qiezi-roumo-89922a9091.webp",
+      "sizeBytes": 181574
+    },
+    {
+      "id": "d31",
+      "name": "葱爆肉丝",
+      "assetKey": "/assets/dishes/congbao-rousi.jpg",
+      "githubPagesFile": "congbao-rousi-77a35dfe41.webp",
+      "sizeBytes": 71796
+    },
+    {
+      "id": "d32",
+      "name": "土豆炖牛肉",
+      "assetKey": "/assets/dishes/tudou-dunniurou.jpeg",
+      "githubPagesFile": "tudou-dunniurou-3cc46ff668.webp",
+      "sizeBytes": 16456
+    },
+    {
+      "id": "d33",
+      "name": "炒土豆丝",
+      "assetKey": "/assets/dishes/chao-tudousi.jpg",
+      "githubPagesFile": "chao-tudousi-7870415a86.webp",
+      "sizeBytes": 80728
+    },
+    {
+      "id": "d34",
+      "name": "辣椒炒肉",
+      "assetKey": "/assets/dishes/lajiao-chaorou.jpeg",
+      "githubPagesFile": "lajiao-chaorou-4c00d42991.webp",
+      "sizeBytes": 32006
+    },
+    {
+      "id": "d35",
+      "name": "手撕包菜",
+      "assetKey": "/assets/dishes/shousi-baocai.jpeg",
+      "githubPagesFile": "shousi-baocai-7ac4cc5eb8.webp",
+      "sizeBytes": 33088
+    },
+    {
+      "id": "d58",
+      "name": "德式芦笋拼盘",
+      "assetKey": "/assets/dishes/deshi-lusun-pinpan.jpeg",
+      "githubPagesFile": "deshi-lusun-pinpan-f27054adc4.webp",
+      "sizeBytes": 79524
+    },
+    {
+      "id": "d60",
+      "name": "蚂蚁上树",
+      "assetKey": "/assets/dishes/mayishangshu.png",
+      "githubPagesFile": "mayishangshu-1daf73d419.webp",
+      "sizeBytes": 163346
+    },
+    {
+      "id": "d8",
+      "name": "螺蛳粉",
+      "assetKey": "/assets/dishes/luosifen.jpg",
+      "githubPagesFile": "luosifen-9fea4f5df3.webp",
+      "sizeBytes": 129160
+    },
+    {
+      "id": "d9",
+      "name": "西红柿牛腩意面",
+      "assetKey": "/assets/dishes/xihongshi-niunan-yimian-v2.jpg",
+      "githubPagesFile": "xihongshi-niunan-yimian-v2-1a014cd4c3.webp",
+      "sizeBytes": 74454
+    },
+    {
+      "id": "d10",
+      "name": "咖喱饭",
+      "assetKey": "/assets/dishes/galifan-v2.jpg",
+      "githubPagesFile": "galifan-v2-f87257225f.webp",
+      "sizeBytes": 71998
+    },
+    {
+      "id": "d11",
+      "name": "凉面",
+      "assetKey": "/assets/dishes/liangmian.jpeg",
+      "githubPagesFile": "liangmian-572d522f93.webp",
+      "sizeBytes": 105420
+    },
+    {
+      "id": "d12",
+      "name": "油泼面",
+      "assetKey": "/assets/dishes/youpomian-v3.png",
+      "githubPagesFile": "youpomian-v3-2010cf949a.webp",
+      "sizeBytes": 24628
+    },
+    {
+      "id": "d13",
+      "name": "肉夹馍",
+      "assetKey": "/assets/dishes/roujiamo-v2.jpg",
+      "githubPagesFile": "roujiamo-v2-19d8b8cab1.webp",
+      "sizeBytes": 33808
+    },
+    {
+      "id": "d17",
+      "name": "蒸包",
+      "assetKey": "/assets/dishes/zhengbao.jpeg",
+      "githubPagesFile": "zhengbao-c193702564.webp",
+      "sizeBytes": 27446
+    },
+    {
+      "id": "d36",
+      "name": "清汤面",
+      "assetKey": "/assets/dishes/qingtangmian.png",
+      "githubPagesFile": "qingtangmian-9e1d0a32ea.webp",
+      "sizeBytes": 20056
+    },
+    {
+      "id": "d37",
+      "name": "水饺",
+      "assetKey": "/assets/dishes/shuijiao.jpeg",
+      "githubPagesFile": "shuijiao-87b384bff8.webp",
+      "sizeBytes": 11422
+    },
+    {
+      "id": "d38",
+      "name": "煎包",
+      "assetKey": "/assets/dishes/jianbao.jpeg",
+      "githubPagesFile": "jianbao-6bb9093de9.webp",
+      "sizeBytes": 31230
+    },
+    {
+      "id": "d61",
+      "name": "炒面条",
+      "assetKey": "/assets/dishes/chaomiantiao.png",
+      "githubPagesFile": "chaomiantiao-7604d5ebd7.webp",
+      "sizeBytes": 161224
+    },
+    {
+      "id": "d65",
+      "name": "奶油海鲜意面",
+      "assetKey": "/assets/dishes/naiyou-haixian-yimian.png",
+      "githubPagesFile": "naiyou-haixian-yimian-996ab6ed92.webp",
+      "sizeBytes": 154282
+    },
+    {
+      "id": "d14",
+      "name": "烤鸡翅",
+      "assetKey": "/assets/dishes/roasted-chicken-wings.jpeg",
+      "githubPagesFile": "roasted-chicken-wings-2dccb86dba.webp",
+      "sizeBytes": 36272
+    },
+    {
+      "id": "d15",
+      "name": "黄油面包",
+      "assetKey": "/assets/dishes/buttered-bread.png",
+      "githubPagesFile": "buttered-bread-69d80c94e9.webp",
+      "sizeBytes": 46048
+    },
+    {
+      "id": "d16",
+      "name": "煎香肠",
+      "assetKey": "/assets/dishes/fried-sausage.png",
+      "githubPagesFile": "fried-sausage-9d777d8c8c.webp",
+      "sizeBytes": 33524
+    },
+    {
+      "id": "d18",
+      "name": "三明治",
+      "assetKey": "/assets/dishes/sandwich.jpg",
+      "githubPagesFile": "sandwich-16e173b280.webp",
+      "sizeBytes": 40086
+    },
+    {
+      "id": "d19",
+      "name": "烤串",
+      "assetKey": "/assets/dishes/grilled-skewers.jpg",
+      "githubPagesFile": "grilled-skewers-0a6b47b7f4.webp",
+      "sizeBytes": 113918
+    },
+    {
+      "id": "d20",
+      "name": "关东煮",
+      "assetKey": "/assets/dishes/oden.jpeg",
+      "githubPagesFile": "oden-54ebc01ec5.webp",
+      "sizeBytes": 21842
+    },
+    {
+      "id": "d39",
+      "name": "可乐鸡翅",
+      "assetKey": "/assets/dishes/cola-chicken-wings.jpg",
+      "githubPagesFile": "cola-chicken-wings-37c9c53d59.webp",
+      "sizeBytes": 46066
+    },
+    {
+      "id": "d40",
+      "name": "土豆泥",
+      "assetKey": "/assets/dishes/mashed-potatoes.jpg",
+      "githubPagesFile": "mashed-potatoes-aa05badb38.webp",
+      "sizeBytes": 28354
+    },
+    {
+      "id": "d41",
+      "name": "煎鸡蛋",
+      "assetKey": "/assets/dishes/fried-egg.jpg",
+      "githubPagesFile": "fried-egg-f6d95e3af8.webp",
+      "sizeBytes": 9526
+    },
+    {
+      "id": "d62",
+      "name": "芒果糯米饭",
+      "assetKey": "/assets/dishes/mangguo-nuomifan.png",
+      "githubPagesFile": "mangguo-nuomifan-ec15959379.webp",
+      "sizeBytes": 73230
+    },
+    {
+      "id": "d63",
+      "name": "烤鸡架",
+      "assetKey": "/assets/dishes/kaojijia.png",
+      "githubPagesFile": "kaojijia-06ba5c3d24.webp",
+      "sizeBytes": 172390
+    },
+    {
+      "id": "d22",
+      "name": "皮蛋黄瓜汤",
+      "assetKey": "/assets/dishes/pidan-huangguatang.png",
+      "githubPagesFile": "pidan-huangguatang-ba0b0bd641.webp",
+      "sizeBytes": 74286
+    },
+    {
+      "id": "d23",
+      "name": "奶油蘑菇汤",
+      "assetKey": "/assets/dishes/naiyou-mogutang.png",
+      "githubPagesFile": "naiyou-mogutang-ba318b6078.webp",
+      "sizeBytes": 96788
+    },
+    {
+      "id": "d42",
+      "name": "西红柿鸡蛋汤",
+      "assetKey": "/assets/dishes/xihongshi-jidantang.png",
+      "githubPagesFile": "xihongshi-jidantang-d0ef9b90d6.webp",
+      "sizeBytes": 133164
+    },
+    {
+      "id": "d43",
+      "name": "紫菜蛋花汤",
+      "assetKey": "/assets/dishes/zicai-danhuatang.png",
+      "githubPagesFile": "zicai-danhuatang-4d154bdc71.webp",
+      "sizeBytes": 135326
+    },
+    {
+      "id": "d44",
+      "name": "皮蛋瘦肉粥",
+      "assetKey": "/assets/dishes/pidan-shourouzhou.png",
+      "githubPagesFile": "pidan-shourouzhou-4455ba4790.webp",
+      "sizeBytes": 89242
+    },
+    {
+      "id": "d24",
+      "name": "酸辣柠檬虾",
+      "assetKey": "/assets/dishes/suanla-ningmengxia.png",
+      "githubPagesFile": "suanla-ningmengxia-28a8f03e16.webp",
+      "sizeBytes": 163682
+    },
+    {
+      "id": "d25",
+      "name": "酱牛肉",
+      "assetKey": "/assets/dishes/jiangniurou.png",
+      "githubPagesFile": "jiangniurou-37314bf1ae.webp",
+      "sizeBytes": 175078
+    },
+    {
+      "id": "d45",
+      "name": "爽口黄瓜条",
+      "assetKey": "/assets/dishes/shuangkou-huangguatiao.png",
+      "githubPagesFile": "shuangkou-huangguatiao-6fdfe21bdc.webp",
+      "sizeBytes": 135674
+    },
+    {
+      "id": "d46",
+      "name": "凉拌皮蛋",
+      "assetKey": "/assets/dishes/liangban-pidan.png",
+      "githubPagesFile": "liangban-pidan-f8963a7bb5.webp",
+      "sizeBytes": 146116
+    },
+    {
+      "id": "d47",
+      "name": "凉拌海带丝",
+      "assetKey": "/assets/dishes/liangban-haidaisi.png",
+      "githubPagesFile": "liangban-haidaisi-cdded11bdf.webp",
+      "sizeBytes": 155450
+    },
+    {
+      "id": "d48",
+      "name": "气泡水",
+      "assetKey": "/assets/dishes/qipaoshui.png",
+      "githubPagesFile": "qipaoshui-955c0497ab.webp",
+      "sizeBytes": 87930
+    },
+    {
+      "id": "d49",
+      "name": "无糖百事",
+      "assetKey": "/assets/dishes/wutang-pepsi.jpg",
+      "githubPagesFile": "wutang-pepsi-1c0dfde648.webp",
+      "sizeBytes": 12640
+    },
+    {
+      "id": "d50",
+      "name": "啤酒",
+      "assetKey": "/assets/dishes/pijiu.png",
+      "githubPagesFile": "pijiu-59433ca772.webp",
+      "sizeBytes": 93652
+    },
+    {
+      "id": "d51",
+      "name": "香橙气泡饮",
+      "assetKey": "/assets/dishes/orangina.png",
+      "githubPagesFile": "orangina-192b2151db.webp",
+      "sizeBytes": 29470
+    },
+    {
+      "id": "d59",
+      "name": "柠檬水",
+      "assetKey": "/assets/dishes/ningmengshui.png",
+      "githubPagesFile": "ningmengshui-e6f9fc8620.webp",
+      "sizeBytes": 72386
+    },
+    {
+      "id": "d26",
+      "name": "虾滑鸡翅",
+      "assetKey": "/assets/dishes/xiahuajichi.png",
+      "githubPagesFile": "xiahuajichi-a0aae4664a.webp",
+      "sizeBytes": 167734
+    },
+    {
+      "id": "d27",
+      "name": "卤鸡腿鸡蛋",
+      "assetKey": "/assets/dishes/lujitui-jidan.png",
+      "githubPagesFile": "lujitui-jidan-8cead745ad.webp",
+      "sizeBytes": 153290
+    },
+    {
+      "id": "d28",
+      "name": "烤羊排",
+      "assetKey": "/assets/dishes/kaoyangpai.png",
+      "githubPagesFile": "kaoyangpai-f9a3a87c64.webp",
+      "sizeBytes": 179456
+    },
+    {
+      "id": "d52",
+      "name": "香甜草莓",
+      "assetKey": "/assets/dishes/xiangtian-caomei.png",
+      "githubPagesFile": "xiangtian-caomei-272d1f234b.webp",
+      "sizeBytes": 136370
+    },
+    {
+      "id": "d53",
+      "name": "Abate香梨棒",
+      "assetKey": "/assets/dishes/abate-xianglibang.jpeg",
+      "githubPagesFile": "abate-xianglibang-48b4301047.webp",
+      "sizeBytes": 102368
+    },
+    {
+      "id": "d54",
+      "name": "手切鲜橙",
+      "assetKey": "/assets/dishes/shouqie-xiancheng.jpeg",
+      "githubPagesFile": "shouqie-xiancheng-162fcbee5c.webp",
+      "sizeBytes": 72150
+    },
+    {
+      "id": "d55",
+      "name": "手切芒果",
+      "assetKey": "/assets/dishes/shouqie-mangguo.jpeg",
+      "githubPagesFile": "shouqie-mangguo-19d4ff12a8.webp",
+      "sizeBytes": 96280
+    },
+    {
+      "id": "d56",
+      "name": "脆甜苹果",
+      "assetKey": "/assets/dishes/cuitian-pingguo.png",
+      "githubPagesFile": "cuitian-pingguo-7ba47f34a5.webp",
+      "sizeBytes": 123444
+    },
+    {
+      "id": "d57",
+      "name": "香甜蕉切",
+      "assetKey": "/assets/dishes/xiangtian-jiaoqie.png",
+      "githubPagesFile": "xiangtian-jiaoqie-4e0721c658.webp",
+      "sizeBytes": 77988
+    },
+    {
+      "id": "d64",
+      "name": "西瓜拼盘",
+      "assetKey": "/assets/dishes/xigua-pinpan.png",
+      "githubPagesFile": "xigua-pinpan-ed9a3f2785.webp",
+      "sizeBytes": 145112
+    }
+  ],
+  "plaqueFile": "plaque-new-cut-optimized.jpg"
+}
